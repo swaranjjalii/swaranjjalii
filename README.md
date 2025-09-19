@@ -1,7 +1,7 @@
 ## Hi there, I'm Swaranjali Shahapure! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1dMNqg5XwlT9K/giphy.gif" alt="Tech Hologram GIF" width="300"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Coding GIF" width="300"/>
 </p>
 
 **AI Enthusiast | Software Engineer | Lifelong Learner**  
