@@ -1,7 +1,7 @@
 ## Hi there, I'm Swaranjali Shahapure! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Astronaut GIF" width="300"/>
+  <img src="https://your-image-host.com/path/to/profile-coder.gif" alt="Creative Coder GIF" width="180"/>
 </p>
 
 **AI Enthusiast | Software Engineer | Lifelong Learner**  
