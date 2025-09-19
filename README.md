@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://your-image-host.com/path/to/profile-coder.gif" alt="Creative Coder GIF" width="180"/>
-</p>
+</p> 
 
 **AI Enthusiast | Software Engineer | Lifelong Learner**  
 
