@@ -1,7 +1,7 @@
 ## Hi there, I'm Swaranjali Shahapure! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="AI Brain GIF" width="300"/>
+  <img src="https://media.giphy.com/media/SS5P8sY4L3gBq/giphy.gif" alt="AI Neural Network GIF" width="300"/>
 </p>
 
 **AI Enthusiast | Software Engineer | Lifelong Learner**  
