@@ -1,7 +1,6 @@
 ## Hi there, I'm Swaranjali Shahapure! 👋
 
 **AI Enthusiast | Software Engineer | Lifelong Learner**  
-> _“Building intelligent solutions, one project at a time.”_
 
 ---
 
@@ -24,11 +23,14 @@ I love to build, experiment, and collaborate on projects that make a difference.
 
 ---
 
-### 📫 Connect with Me
+### 🤖 Connect with Me
 
 <p align="left">
   <a href="https://github.com/swaranjjalii" target="_blank">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://huggingface.co/swaranjalii" target="_blank">
+    <img src="https://img.shields.io/badge/huggingface-FFD21A?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
   <a href="https://instagram.com/__swaranjaliii" target="_blank">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -36,7 +38,7 @@ I love to build, experiment, and collaborate on projects that make a difference.
   <a href="https://linkedin.com/in/swaranjali-shahapure-958535294" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://medium.com/@your-medium-username" target="_blank">
+  <a href="https://medium.com/@swaranjalishahapure004" target="_blank">
     <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
