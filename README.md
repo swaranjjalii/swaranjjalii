@@ -1,9 +1,10 @@
 ## Hi there, I'm Swaranjali Shahapure! 👋
 
-**AI Enthusiast | Software Engineer | Lifelong Learner**  
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Futuristic AI GIF" width="300"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Tech Abstract GIF" width="300"/>
 </p>
+
+**AI Enthusiast | Software Engineer | Lifelong Learner**  
 
 ---
 
